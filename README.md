@@ -40,11 +40,21 @@ Experienced Data Platform Engineer specializing in building scalable data infras
 
 ---
 
+🚀 Current Projects & Focus
+🍏 Apple Ecosystem (macOS, iOS, iPadOS)
+Library Navigator (iPadOS): Engineered an indoor navigation solution designed to help customers navigate complex library environments seamlessly.
+
+Open Source: Active contributor to various macOS and iOS tools, dedicated to improving the Apple developer ecosystem in my spare time.
+
+AI Sound Wellness: Contributing to the conceptual design and technical architecture of a generative AI-powered audio app focused on mental well-being.
+
 ### 📂 Professional Focus
 * **Big Data Environments:** Specialized in technical project management and migrations for high-volume management systems.
 * **Hybrid/Multi-Cloud:** Orchestrating workflows across **AWS** and **Google Cloud (GCP)**.
 * **Identity Management:** Implementing secure user management via **Azure Entra ID**.
 * **Automation:** Building end-to-end ETL pipelines with Airflow, n8n, and custom Python code.
+
+---
 
 > [!IMPORTANT]
 > **Private Repositories:** I currently manage **~30 private repositories**. While my public activity might look quiet, I am active daily on proprietary projects. Architecture diagrams and case studies are available upon request during interviews.
