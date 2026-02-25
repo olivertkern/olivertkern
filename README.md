@@ -39,6 +39,6 @@ Experienced Data Engineer specializing in building robust data infrastructures a
 ### 📫 Contact Me
 ⚠️ **Note:** Please contact me **only from your company domain**. Inquiries from generic providers (Gmail, Outlook, etc.) will not be prioritized.
 
-📧 **[olivertkern@olike.com](mailto:olivertkern@gmail.com)**
+📧 **[olivertkern @ olike.com](mailto:olivertkern@gmail.com)**
 
 
