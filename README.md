@@ -1,5 +1,5 @@
 # Hi, I'm Olike 
-**Data Platform Engineer | Cloud Architect | Big Data Specialist**
+**Data Platform Engineer | Cloud Architect | Big Data Specialist | Passionate about Open Source Contributions**
 
 Experienced Data Platform Engineer specializing in building scalable data infrastructures and orchestrating complex system migrations. Most recently, I led full-scale migrations of core management systems in the academic sector (Lake Constance region).
 
