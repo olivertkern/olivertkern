@@ -41,6 +41,7 @@ Experienced Data Platform Engineer specializing in building scalable data infras
 ---
 
 🚀 Current Projects & Focus
+
 🍏 Apple Ecosystem (macOS, iOS, iPadOS)
 Library Navigator (iPadOS): Engineered an indoor navigation solution designed to help customers navigate complex library environments seamlessly.
 
