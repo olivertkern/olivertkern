@@ -1,4 +1,4 @@
-# Hi, I'm Olike 👋
+# Hi, I'm Olike 
 **Data Engineer | Cloud Architect | Big Data Specialist**
 
 Experienced Data Engineer specializing in building robust data infrastructures and orchestrating complex system migrations. Most recently, I led full-scale migrations of core management systems in the academic sector (Lake Constance region).
