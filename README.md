@@ -41,7 +41,4 @@ Experienced Data Engineer specializing in building robust data infrastructures a
 
 📧 **[olivertkern@olike.com](mailto:olivertkern@gmail.com)**
 
----
 
-### 📊 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
