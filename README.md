@@ -3,6 +3,8 @@
 
 Experienced Data Platform Engineer specializing in building scalable data infrastructures and orchestrating complex system migrations. Most recently, I led full-scale migrations of core management systems in the academic sector (Lake Constance region).
 
+Beyond data infrastructure, I am an active Open Source contributor within the Apple ecosystem, dedicated to developing tools and applications for macOS, iOS, and iPadOS. My work ranges from designing indoor navigation solutions to contributing to the conceptual architecture of AI-driven wellness applications.
+
 ---
 
 ### 🛠 Tech Stack & Tools
