@@ -37,9 +37,9 @@ Experienced Data Engineer specializing in building robust data infrastructures a
 ---
 
 ### 📫 Contact Me
-I am available for technical consulting and project collaborations via my company domain:
+⚠️ **Note:** Please contact me **only from your company domain**. Inquiries from generic providers (Gmail, Outlook, etc.) will not be prioritized.
 
-📧 **[your-email@your-domain.com](mailto:your-email@your-domain.com)**
+📧 **[olivertkern@olike.com](mailto:olivertkern@gmail.com)**
 
 ---
 
