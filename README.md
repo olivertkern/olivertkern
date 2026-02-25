@@ -47,7 +47,7 @@ Experienced Data Platform Engineer specializing in building scalable data infras
 * **Automation:** Building end-to-end ETL pipelines with Airflow, n8n, and custom Python code.
 
 > [!IMPORTANT]
-> **Private Repositories:** I currently manage **~60 private repositories**. While my public activity might look quiet, I am active daily on proprietary projects. Architecture diagrams and case studies are available upon request during interviews.
+> **Private Repositories:** I currently manage **~30 private repositories**. While my public activity might look quiet, I am active daily on proprietary projects. Architecture diagrams and case studies are available upon request during interviews.
 
 ---
 
